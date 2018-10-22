@@ -8,7 +8,7 @@ class Object {
 public:
     Geometry* geometry;
     Material* material;
-pulbic;
+public;
     Object(Geometry* geometry, Material* materal);
 
     /*
